@@ -57,6 +57,7 @@ if pwd == '0':
 """)
 
 elif pwd == '1':
+    print("")
     passswfile = input(f"{Fore.LIGHTWHITE_EX}[{Fore.LIGHTRED_EX}?{Fore.LIGHTWHITE_EX}] Ingrese la ruta del archivo {Fore.LIGHTRED_EX}=> {Fore.RESET}")
     print("")
 
